@@ -1,0 +1,17 @@
+{
+    "name": "lamson/simple-pkg",
+    "description": "This is a simple package to return string \"I am a software developer\"",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lam Son",
+            "email": "lamson@mail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           "Simple\\" : "src"
+        }
+    }
+}
