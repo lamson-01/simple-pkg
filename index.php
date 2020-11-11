@@ -4,7 +4,5 @@
 use Simple\Xinchao\SayXinchao;
 
 require 'vendor/autoload.php';
-
-    
    
 echo SayXinchao::world();
