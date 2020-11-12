@@ -13,5 +13,8 @@
         "psr-4": {
            "Simple\\" : "src"
         }
+    },
+    "require": {
+        "php": ">=7.3"
     }
 }
